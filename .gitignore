@@ -1,0 +1,20 @@
+#==============================
+# Git Ignore File
+#==============================
+
+# IntelliJ project files such as
+*.class
+*.jar
+*.iml
+
+# IntelliJ directories
+**/.idea/
+.idea
+/.idea/*
+*/.idea/*
+/**/out/
+/**/target/
+/target/
+/.settings/
+.classpath
+.project
